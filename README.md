@@ -1,1 +1,5 @@
-# balavamsi573
+public class balavamsi573{
+    public static void main (String []args){
+        System.out println("hello");
+    }
+}
